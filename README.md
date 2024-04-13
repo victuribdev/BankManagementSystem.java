@@ -15,9 +15,6 @@ This is an ATM (Automated Teller Machine) system implemented in Java, featuring 
 - **Mini Statement:** Displays a summary of recent transactions.
 - **Fast Cash:** Offers predefined withdrawal options for quick transactions.
 
-**Screenshots:**
-
-[Include screenshots here]
 
 **How to Use:**
 
@@ -45,9 +42,8 @@ This is an ATM (Automated Teller Machine) system implemented in Java, featuring 
 
 **Contributors:**
 
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
+- Paulo Victor ([GitHub](https://github.com/paulovictordev))
+- My email (victuribdev@gmail.com)
 
 **License:**
 
@@ -55,7 +51,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 **Support:**
 
-For any queries or support, please contact [Your Email Address].
+For any queries or support, please contact victuribdev@gmail.com.
 
 **Issues:**
 
