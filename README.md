@@ -87,6 +87,5 @@ Happy banking! 🏦🔒🚀
 ![Page 2](images/page2.png)
 ![Page 3](images/page3.png)
 ![PIN](images/pin.png)
-![Seen](images/seen.png)
 ![Transaction](images/transaction.png)
 
