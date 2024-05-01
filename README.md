@@ -79,3 +79,14 @@ We welcome contributions from the community. If you'd like to contribute to the 
 **Enjoy your ATM System!**
 
 Happy banking! 🏦🔒🚀
+
+![Amount](imagens/amount.png)
+![Deposit](imagens/deposit.png)
+![Login](imagens/login.png)
+![Page 1](imagens/page1.png)
+![Page 2](imagens/page2.png)
+![Page 3](imagens/page3.png)
+![PIN](imagens/pin.png)
+![Seen](imagens/seen.png)
+![Transaction](imagens/transaction.png)
+
