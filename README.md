@@ -80,13 +80,13 @@ We welcome contributions from the community. If you'd like to contribute to the 
 
 Happy banking! 🏦🔒🚀
 
-![Amount](imagens/amount.png)
-![Deposit](imagens/deposit.png)
-![Login](imagens/login.png)
-![Page 1](imagens/page1.png)
-![Page 2](imagens/page2.png)
-![Page 3](imagens/page3.png)
-![PIN](imagens/pin.png)
-![Seen](imagens/seen.png)
-![Transaction](imagens/transaction.png)
+![Amount](images/amount.png)
+![Deposit](images/deposit.png)
+![Login](images/login.png)
+![Page 1](images/page1.png)
+![Page 2](images/page2.png)
+![Page 3](images/page3.png)
+![PIN](images/pin.png)
+![Seen](images/seen.png)
+![Transaction](images/transaction.png)
 
